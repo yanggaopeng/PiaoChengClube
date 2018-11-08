@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户注册</title>
+</head>
+<body>
+<!--头部-->
+<div>
+    <iframe src="Header.html" style="border:1px solid #CDCDCD;" width="954px" height="150px" frameborder="0" scrolling="no" name="headFrame"></iframe>
+</div>
+</body>
+</html>

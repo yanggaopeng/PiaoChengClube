@@ -1,0 +1,66 @@
+/*头部*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*主体部分*/
+.Subject{
+    margin-top: 10px;
+    width:956px;
+    height: 800px;
+    border:1px solid #ccc;
+}
+.Subject h3{
+    line-height: 25px;
+    font-size: 14px;
+    text-align: center;
+    background-color:orange ;
+}
+.public{
+    height:154px;
+}
+.public ul {
+    float:left;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 32px;
+}
+.public ul li:first-child{
+    font-size: 12px;
+    text-align: center;
+    color:#f60;
+    width: 150px;
+    line-height: 20px;
+}
+.public ul li:nth-child(2){
+    height: 80px;
+    text-align: center;
+}
+.message{
+
+}
+.public ul li:nth-child(n+3){
+    float:left;
+    width:59px;
+    padding-left: 16px;
+    margin-top: 8px;
+    font-size: 12px;
+}
+.message{
+    background: url('../Img/images/x1.gif') no-repeat left center;
+}
+.friend{
+    background: url('../Img/images/x2.gif') no-repeat left center;
+}
+.guest{
+    background: url('../Img/images/x3.gif') no-repeat left center;
+}
+.flower{
+    background: url('../Img/images/x4.gif') no-repeat left center;
+}
+/*底部*/
+.footer{
+    width:956px;
+    height:80px;
+}

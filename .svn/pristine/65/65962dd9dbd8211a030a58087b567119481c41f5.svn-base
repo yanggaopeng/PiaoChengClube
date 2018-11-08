@@ -1,0 +1,141 @@
+/*头部*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*悬浮字体*/
+.Xuanfu{
+    width:160px;
+    height:92px;
+    position:absolute;
+    left: 1070px;
+    top:153px;
+
+}
+.Xuanfu img{
+    float:left;
+    width:80px;
+    height:90px;
+    background: none;
+}
+/*主要内容*/
+.content{
+    width:954px;
+    height:900px;
+    margin-top: 10px;
+    border:1px solid #CDCDCD;
+}
+.content h3{
+    line-height:25px;
+    background-color: #EEEEEE;
+    font-size: 14px;
+    text-align: center;
+}
+.Content{
+    width:890px;
+    height:700px;
+    margin-top: 12px;
+    margin-left: 50px;
+    margin-right: 15px;
+}
+.Content-left{
+    float: left;
+    width:164px;
+    /*height:663px;*/
+}
+.Content-left h4{
+    font-size: 12px;
+    text-align:center;
+    color:#FF6D0B;
+    font-weight: 300;
+    margin-bottom: 17px;
+}
+.Content-left-Img{
+    width:80px;
+    height:80px;
+    margin-left: 36px;
+    margin-bottom: 20px;
+}
+.Content-left ul{
+    height:44px;
+    margin-bottom: 16px;
+}
+.Content-left ul li{
+    float:left;
+    width:67px;
+    height:20px;
+    font-size:10px;
+    margin-bottom: 6px;
+}
+.Content-left ul li img{
+    margin-right: 4px;
+}
+.Content-left-email,.Content-left-web{
+    height:14px;
+    font-size: 10px;
+}
+.Content-right{
+    float:left;
+    width:682px;
+    /*height:663px;*/
+    margin-left: 44px;
+
+}
+.Content-right-title{
+    height:25px;
+    border-bottom:1px dashed #CDCDCD;
+}
+.Content-right-title-ul{
+    float:left;
+    width:237px;
+    height:25px;
+    margin-right: 330px;
+}
+.Content-right-title-ul li{
+    float:left;
+    width:46px;
+    line-height: 25px;
+    font-size:8px;
+}
+.Content-right-title-ul li:first-child{
+    width:26px;
+    padding-left:20px;
+    margin-right:8px;
+    background: url("../Img/images/member.gif") no-repeat 0px 4px;
+}
+.Content-right-title-ul li:last-child{
+    width:168px;
+}
+.Content-right-title-biaoji{
+    float:left;
+    width:115px;
+    height:25px;
+}
+.Content-right-title-biaoji li{
+    float:left;
+    width:60px;
+    font-size: 8px;
+    line-height: 25px;
+    color:#0C6DFF;
+}
+.Content-right-title-biaoji li a{
+    font-size: 8px;
+    color:#0C0CEF;
+    text-decoration: underline;
+}
+.Content-right-header{
+    height:170px;
+    margin-top: 10px;
+}
+.Content-right-header h4{
+    line-height:24px;
+    font-size: 14px;
+    background: url('../Img/images/icon15.gif') no-repeat 296px 4px;
+}
+.Content-right-header h4 a{
+    color:#0C6DFF;
+    margin-left: 15px;
+    font-size: 8px;
+    font-weight: 100;
+}

@@ -1,0 +1,25 @@
+.Banner{
+    width:956px;
+    height:150px;
+}
+.Banner-img{
+    float:left;
+    margin-left: 53px;
+    margin-top: 52px;
+    margin-right: 300px;
+}
+.Banner ul{
+    margin-top: 110px;
+    float: left;
+    width:364px;
+    height:25px;
+}
+.Banner ul li{
+    float:left;
+    line-height: 25px;
+    margin-right: 5px;
+    font-size: 14px;
+}
+.Banner ul li a{
+    font-size: 14px;
+}

@@ -1,0 +1,78 @@
+/*头部*/
+.top{
+    width:954px;
+    height:150px;
+    margin-top: 10px;
+}
+/*主体部分*/
+.Subject{
+    margin:10px auto 0px auto;
+    width:954px;
+}
+.Subject-left{
+    float: left;
+    width:338px;
+    height:515px;
+}
+.Subject-left-top,.Subject-left-bottom{
+    height:250px;
+    border:1px solid #CDCDCD;
+}
+.Subject-left-top h4,.Subject-left-bottom h4,.Subject-right h4{
+    height:22px;
+    padding-left: 11px;
+    padding-top:5px;
+    background: #EEEEEE;
+}
+.Subject-left-top-content{
+    width:157px;
+    height:190px;
+    margin-left: 85px;
+    margin-top:15px;
+}
+.Subject-left-top-content h5{
+    color:#FF9912;
+    margin-bottom: 4px;
+    text-align: center;
+}
+.Subject-left-top-content ul{
+    margin-top: 8px;
+    width:157px;
+    height: 42px;
+}
+.Subject-left-top-content ul li{
+    float:left;
+    width:72px;
+    height:16px;
+    font-size:12px;
+}
+.Subject-left-top-content p{
+    width:157px;
+    margin-bottom: 6px;
+    height:16px;
+    font-size: 10px;
+}
+.Subject-right{
+    float:left;
+    width:599px;
+    height:513px;
+    margin-left: 11px;
+    border:1px solid #CDCDCD;
+}
+.Subject-img{
+    height:45px;
+    margin-top: 8px;
+    margin-right: 9px;
+}
+.Subject-img img{
+    float:right;
+}
+.Subject-right ul{
+    width:514px;
+    height:309px;
+    margin-left: 49px;
+}
+.Subject-right ul li{
+    height:30px;
+}
+

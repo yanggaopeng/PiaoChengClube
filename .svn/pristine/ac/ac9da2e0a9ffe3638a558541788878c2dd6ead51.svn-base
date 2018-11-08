@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>瓢城Web俱乐部(YCKU.COM)</title>
+    <link rel="stylesheet" href="Css/public.css">
+    <link rel="stylesheet" href="Css/regist.css">
+</head>
+<body>
+<!--头部-->
+<div class="top">
+    <iframe src="Header.html" style="border:1px solid #CDCDCD;" width="954px" height="150px" frameborder="0" scrolling="no" name="headFrame"></iframe>
+</div>
+<!--主体部分-->
+<div class="content">
+    <h3>会员注册</h3>
+    <P class="thieu">请认真填写下面内容</P>
+    <form action="#" method="post" class="form">
+        <div>
+            <p>用户名:</p>
+            <input type="text" value="">
+            <span>(*必填，至少两位)</span>
+        </div>
+        <div>
+            <p>密码:</p>
+            <input type="password" value="">
+            <span>(*必填，至少六位)</span>
+        </div>
+        <div>
+            <P>确认密码:</P>
+            <input type="password" value="">
+            <span>(*必填，同上)</span>
+        </div>
+        <div>
+            <P>密码提示:</P>
+            <input type="text" value="">
+            <span>(*必填，至少两位)</span>
+        </div>
+        <div>
+            <P>密码回答:</P>
+            <input type="text" value="">
+            <span>(*必填，至少两位)</span>
+        </div>
+        <div>
+            <p>性别:</p>
+            <input type="radio" value="" checked="checked">男
+            <input type="radio" value="">女
+        </div>
+        <img src="Img/face/m01.gif" width="80" height="80" style="margin-left: 120px;margin-top: 10px;">
+        <div>
+            <P>电子邮件:</P>
+            <input type="email" value="">
+            <span>(*必填，激活账户)</span>
+        </div>
+        <div>
+            <P>QQ:</P>
+            <input type="text" value="">
+        </div>
+        <div>
+            <P>主页地址:</P>
+            <input type="text" value="http://">
+        </div>
+        <div>
+            <p>验证码:</p>
+            <input type="text" value="" style="width:56px;">
+            <img src="Img/images/code.php.png" width="73" height="25">
+        </div>
+        <div>
+            <button type="reset">注册</button>
+        </div>
+    </form>
+</div>
+<!--底部-->
+<div class="footer">
+    <iframe src="Footer.html" scrolling="no" frameborder="0" width="956" height="70"></iframe>
+</div>
+</body>
+</html>

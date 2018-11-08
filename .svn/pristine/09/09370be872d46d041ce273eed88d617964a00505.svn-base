@@ -1,0 +1,25 @@
+/*头部*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*主体内容*/
+.content{
+    width:954px;
+    height:600px;
+    margin-top: 10px;
+    border:1px solid #CDCDCD;
+}
+.content h3{
+    text-align: center;
+    background-color:#EEEEEE;
+    line-height: 25px;
+}
+.thieu{
+    width:116px;
+    height:15px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 10px;
+}

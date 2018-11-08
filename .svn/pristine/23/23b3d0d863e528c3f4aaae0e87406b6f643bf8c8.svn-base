@@ -1,0 +1,115 @@
+/*头部*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*主体部分*/
+.Subject{
+    margin:10px auto 0px auto;
+    width:956px;
+    height:515px;
+}
+.Subject-left{
+    float: left;
+    width:338px;
+    height:515px;
+}
+.Subject-left-top,.Subject-left-bottom{
+    height:250px;
+    border:1px solid #CDCDCD;
+}
+.Subject-left-top h4,.Subject-left-bottom h4,.Subject-right h4{
+    height:22px;
+    padding-left: 11px;
+    padding-top:5px;
+    background: #EEEEEE;
+}
+.Subject-left-top-content{
+    width:157px;
+    height:190px;
+    margin-left: 85px;
+    margin-top:15px;
+}
+.Subject-left-top-content h5{
+    color:#FF9912;
+    margin-bottom: 4px;
+    text-align: center;
+}
+.Subject-left-top-content ul{
+    margin-top: 8px;
+    width:157px;
+    height: 42px;
+}
+.Subject-left-top-content ul li{
+    float:left;
+    width:72px;
+    height:16px;
+    font-size:12px;
+}
+.Subject-left-top-content p{
+    width:157px;
+    margin-bottom: 6px;
+    height:16px;
+    font-size: 10px;
+}
+.Subject-right{
+    float:left;
+    width:605px;
+    height:513px;
+    margin-left: 11px;
+    border:1px solid #CDCDCD;
+}
+.Subject-img{
+    height:45px;
+    margin-top: 8px;
+    margin-right: 9px;
+}
+.Subject-img img{
+    float:right;
+}
+.Subject-ul{
+    width:514px;
+    height:360px;
+    margin-left: 49px;
+}
+.Subject-ul li{
+    height:20px;
+    padding-top: 9px;
+    padding-bottom: 6px;
+    border-bottom:1px dashed #333333;
+}
+.Subject-ul li p{
+    width:245px;
+    height:15px;
+    float:left;
+    margin-right: 90px;
+    font-size: 14px;
+    margin-left: 12px;
+    border-bottom:1px solid #333333;
+}
+.Subject-ul li div{
+    width:154px;
+    height:20px;
+    float:left;
+}
+.Subject-ul li div span{
+    display: inline-block;
+    width:73px;
+    font-size: 12px;
+}
+.Subject-page{
+    width:314px;
+    height:20px;
+    margin-top: 30px;
+}
+.Subject-page li{
+    float:left;
+    margin-right:6px;
+    font-size: 12px;
+}
+/*底部*/
+.footer{
+    width:956px;
+    height:80px;
+}

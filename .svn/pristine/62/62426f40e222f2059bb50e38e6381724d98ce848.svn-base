@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>瓢城Web俱乐部(YCKU.COM)</title>
+    <link rel="shortcut icon"  href="Img/images/q1.ico">
+    <link rel="stylesheet" href="Css/public.css">
+    <link rel="stylesheet" href="Css/Page.css">
+    <link rel="stylesheet" href="Css/article.css">
+</head>
+<body>
+<!--头部-->
+<div class="top">
+    <iframe src="Header.html" style="border:1px solid #CDCDCD;" width="954px" height="150px" frameborder="0" scrolling="no" name="headFrame"></iframe>
+</div>
+<!--悬浮字体-->
+<div class="Xuanfu">
+    <img src="Img/images/hot.gif">
+    <img src="Img/images/nice.gif">
+</div>
+<!--主体部分-->
+<div class="Subject" style="height:1200px;">
+    <h3>帖子详情</h3>
+    <div class="Content" style="border-bottom: none; height:1108px;">
+        <div class="Content-comment-first">
+            <div class="Content-comment-first-left">
+                <h3 style="margin-top: 10px;">123456789(男)</h3>
+                <img src="Img/face/m01.gif" style="width:82px;height:82px;margin-left: 42px;margin-bottom: 20px;">
+                <ul>
+                    <li>
+                        <img src="Img/images/x1.gif">
+                        发消息
+                    </li>
+                    <li>
+                        <img src="Img/images/x2.gif">
+                        加为好友
+                    </li>
+                    <li>
+                        <img src="Img/images/x3.gif">
+                        写留言
+                    </li>
+                    <li>
+                        <img src="Img/images/x4.gif">
+                        给他送花
+                    </li>
+                </ul>
+                <P>邮件：1233456@qq.com</P>
+                <P>网址：http://www.baidu.com</P>
+            </div>
+            <div class="Content-comment-first-right">
+                <div class="Content-comment-first--right-top" style="margin-top: 10px;">
+                    <h3>123456789 | 发表于：2015-12-23 10:13:13</h3>
+                    <p>16#</p>
+                </div>
+                <div class="Content-comment-first--right-bottom" style="height:142px;">
+                    <h3 style="background: url('Img/images/icon1.gif') no-repeat 140px 2px;">主题：回复1楼的星矢 </h3>
+                    <P style="margin-bottom: 45px;">wewe</P>
+                </div>
+            </div>
+        </div>
+        <div class="Content-comment-first">
+            <div class="Content-comment-first-left">
+                <h3 style="margin-top: 10px;">admin(男)</h3>
+                <img src="Img/face/m58.gif" style="width:82px;height:82px;margin-left: 42px;margin-bottom: 20px;">
+                <ul>
+                    <li>
+                        <img src="Img/images/x1.gif">
+                        发消息
+                    </li>
+                    <li>
+                        <img src="Img/images/x2.gif">
+                        加为好友
+                    </li>
+                    <li>
+                        <img src="Img/images/x3.gif">
+                        写留言
+                    </li>
+                    <li>
+                        <img src="Img/images/x4.gif">
+                        给他送花
+                    </li>
+                </ul>
+                <P>邮件：eqwdasdad1qeqwe@qq.com</P>
+                <P>网址：http://www.foxea.com.cn</P>
+            </div>
+            <div class="Content-comment-first-right">
+                <div class="Content-comment-first--right-top" style="margin-top: 10px;">
+                    <h3>admin | 发表于：2015-12-25 00:22:31</h3>
+                    <p>17#</p>
+                </div>
+                <div class="Content-comment-first--right-bottom" style="height:180px;">
+                    <h3>主题：RE:《梦幻迪士尼》资料片将于9月28日开启 </h3>
+                    <img src="Img/qpic/7.gif">
+                    <img src="Img/qpic/14.gif">
+                </div>
+                <P class="Wm"></P>
+            </div>
+        </div>
+        <div class="Content-comment-first">
+            <div class="Content-comment-first-left">
+                <h3 style="margin-top: 10px;">蜡笔小新(男)</h3>
+                <img src="Img/face/m38.gif" style="width:82px;height:82px;margin-left: 42px;margin-bottom: 20px;">
+                <ul>
+                    <li>
+                        <img src="Img/images/x1.gif">
+                        发消息
+                    </li>
+                    <li>
+                        <img src="Img/images/x2.gif">
+                        加为好友
+                    </li>
+                    <li>
+                        <img src="Img/images/x3.gif">
+                        写留言
+                    </li>
+                    <li>
+                        <img src="Img/images/x4.gif">
+                        给他送花
+                    </li>
+                </ul>
+                <P>邮件：labixiaoxin@163.com</P>
+                <P>网址：http://www.yc60.com</P>
+            </div>
+            <div class="Content-comment-first-right">
+                <div class="Content-comment-first--right-top" style="margin-top: 10px;">
+                    <h3>蜡笔小新 | 发表于：2016-04-05 16:02:10</h3>
+                    <p>18#</p>
+                </div>
+                <div class="Content-comment-first--right-bottom" style="height:180px;">
+                    <h3>主题：RE:《梦幻迪士尼》资料片将于9月28日开启</h3>
+                    <P style="margin-bottom: 30px;">111111111111</P>
+                </div>
+                <P class="Wm"></P>
+            </div>
+        </div>
+        <div class="Content-comment-first">
+            <div class="Content-comment-first-left">
+                <h3 style="margin-top: 10px;">上海(男)</h3>
+                <img src="Img/face/m11.gif" style="width:82px;height:82px;margin-left: 42px;margin-bottom: 20px;">
+                <ul>
+                    <li>
+                        <img src="Img/images/x1.gif">
+                        发消息
+                    </li>
+                    <li>
+                        <img src="Img/images/x2.gif">
+                        加为好友
+                    </li>
+                    <li>
+                        <img src="Img/images/x3.gif">
+                        写留言
+                    </li>
+                    <li>
+                        <img src="Img/images/x4.gif">
+                        给他送花
+                    </li>
+                </ul>
+                <P>邮件：1231231@qq.com</P>
+                <P>网址：http://www.baidu.com</P>
+            </div>
+            <div class="Content-comment-first-right">
+                <div class="Content-comment-first--right-top" style="margin-top: 10px;">
+                    <h3>上海| 发表于：2016-10-24 12:59:33</h3>
+                    <p>19#</p>
+                </div>
+                <div class="Content-comment-first--right-bottom" style="height:180px;">
+                    <h3>主题：RE:《梦幻迪士尼》资料片将于9月28日开启 </h3>
+                    <P style="margin-bottom: 30px;">说的很不错了 ,噢噢噢</P>
+                </div>
+                <P class="Wm"></P>
+            </div>
+        </div>
+    </div>
+    <div class="Content-page">
+        <a href="article.html" alt="#">1</a>
+        <a href="Page.html" alt="#">2</a>
+        <a href="Finalpage.html" alt="#">3</a>
+    </div>
+</div>
+<!--底部-->
+<div class="footer">
+    <iframe src="Footer.html" scrolling="0" width="956px" height="80px" frameborder="0"></iframe>
+</div>
+</body>
+</html>

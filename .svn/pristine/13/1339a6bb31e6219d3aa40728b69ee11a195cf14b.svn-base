@@ -1,0 +1,33 @@
+/*头部*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*悬浮字体*/
+.Xuanfu{
+    width:160px;
+    height:92px;
+    position: fixed;
+    z-index: 1000;
+    left: 1070px;
+    top:140px;
+}
+.Xuanfu img{
+    float:left;
+    width:80px;
+    height:90px;
+}
+/*主要内容*/
+.content{
+    width:954px;
+    height:100%;
+    margin-top: 10px;
+    border:1px solid #CDCDCD;
+}
+.content h3{
+    line-height:25px;
+    background-color: #EEEEEE;
+    font-size: 14px;
+    text-align: center;
+}

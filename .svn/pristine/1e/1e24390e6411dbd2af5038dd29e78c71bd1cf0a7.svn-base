@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>瓢城Web俱乐部(YCKU.COM)</title>
+    <link rel="shortcut icon"  href="Img/images/q1.ico">
+    <link rel="stylesheet" href="Css/public.css">
+    <link rel="stylesheet" href="Css/index.css">
+</head>
+<body>
+<!--头部-->
+<div class="top">
+    <iframe src="Header.html" style="border:1px solid #CDCDCD;" width="954px" height="150px" frameborder="0" scrolling="no" name="headFrame"></iframe>
+</div>
+<!--主体部分-->
+<div class="Subject">
+    <div class="Subject-left">
+        <div class="Subject-left-top">
+            <h4>新进会员</h4>
+            <div class="Subject-left-top-content">
+                <h5>panling_man(男)</h5>
+                <img src="Img/face/m01.gif" width="80" height="80" style="margin-left: 36px;">
+                <ul>
+                    <li>
+                        <img src="Img/images/x1.gif">
+                        发消息
+                    </li>
+                    <li>
+                        <img src="Img/images/x2.gif">
+                        加为好友
+                    </li>
+                    <li>
+                        <img src="Img/images/x3.gif">
+                        写留言
+                    </li>
+                    <li>
+                        <img src="Img/images/x4.gif">
+                        给他送花
+                    </li>
+                </ul>
+                <P>邮件：81102924@qq.com</P>
+                <P>网址：http://www.baidu.com</P>
+            </div>
+        </div>
+        <div class="Subject-left-bottom" style="margin-top: 10px;">
+            <h4>最新图片 — 网络游戏11</h4>
+            <img src="Img/monipic/xw315.jpg" width="183" height="140" style="margin-left: 78px;margin-top: 20px;">
+        </div>
+    </div>
+    <div class="Subject-right">
+        <h4>帖子列表</h4>
+        <a href="post.html" target="_parent" class="Subject-img">
+            <img src="Img/images/aricle.jpg" width="114" height="33">
+        </a>
+        <ul class="Subject-ul">
+            <li>
+                <img src="Img/images/icon15.gif" width="15" height="15" style="float:left;">
+                <p style="margin-right: 82px;border-bottom: none;">
+                    <a href="article.html" target="_parent" class="dn">《梦幻迪士尼》资料片将于9月28日开启</a>
+                </p>
+                <div style="width:160px;">
+                    <span style="width:84px; float:left;margin-top: 4px;">阅读数（524）</span>
+                    <span>评论数（20）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon9.gif" width="13" height="20" style="float:left;">
+                <p>推荐两首亚洲歌后最新主打MV！！</p>
+                <div>
+                    <span>阅读数（36）</span>
+                    <span>评论数（2）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon9.gif" width="13" height="20" style="float:left;">
+                <p>创意时代：解密QQ仙侠传美术创意设计</p>
+                <div>
+                    <span>阅读数（7）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon2.gif" width="13" height="20" style="float:left;">
+                <p>天上掉馅饼《游戏人生》变装拿大奖</p>
+                <div>
+                    <span>阅读数（6）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon6.gif" width="13" height="20" style="float:left;">
+                <p>格斗大作《街头霸王4》PC版即将发布</p>
+                <div>
+                    <span>阅读数（8）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon16.gif" width="13" height="20" style="float:left;">
+                <p>暗黑魔幻《炼狱4》4月19日正式开放</p>
+                <div>
+                    <span>阅读数（5）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon13.gif" width="13" height="20" style="float:left;">
+                <p>永恒之塔的日子有一种自豪叫做牺牲</p>
+                <div>
+                    <span>阅读数（3）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon7.gif" width="13" height="20" style="float:left;">
+                <p>盘点多年以后你还刻骨铭心的十款游戏</p>
+                <div>
+                    <span>阅读数（3）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon3.gif" width="13" height="20" style="float:left;">
+                <p>炫舞吧内测火爆引领休闲舞蹈网游</p>
+                <div>
+                    <span>阅读数（2）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+            <li>
+                <img src="Img/images/icon4.gif" width="13" height="20" style="float:left;">
+                <p>姚仙亲自主刀《仙剑5》剧透曝光</p>
+                <div>
+                    <span>阅读数（4）</span>
+                    <span>评论数（0）</span>
+                </div>
+            </li>
+        </ul>
+        <ul class="Subject-page">
+            <li>1/2页</li>
+            <li>|</li>
+            <li>共有16条数据</li>
+            <li>首页</li>
+            <li>|</li>
+            <li>上一页</li>
+            <li>|</li>
+            <li style="border-bottom:1px solid #333333;">下一页</li>
+            <li>|</li>
+            <li style="border-bottom:1px solid #333333;">尾页</li>
+        </ul>
+    </div>
+</div>
+<!--底部-->
+<div class="footer">
+    <iframe src="Footer.html" scrolling="0" width="956px" height="80px" frameborder="0"></iframe>
+</div>
+</body>
+</html>

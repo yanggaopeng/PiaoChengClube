@@ -1,0 +1,75 @@
+/*头部*/
+.Header{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+.Content{
+    width:954px;
+    height:400px;
+    margin:10px auto 0px auto;
+    border:1px solid #CDCDCD;
+}
+.Content h3{
+    text-align: center;
+    line-height: 25px;
+    background-color:#EEEEEE;
+}
+.Content form{
+    width:256px;
+    height:147px;
+    margin-top: 25px;
+}
+.form-name,.form-psd,.form-yzm{
+    height:25px;
+    margin-bottom: 4px;
+}
+.form-name p,.form-psd p,.form-radio p,.form-yzm p{
+    float:left;
+    width:55px;
+    margin-top: 2px;
+    line-height:18px;
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+.form-name input,.form-psd input{
+    float:left;
+    border:1px dashed #333333;
+}
+.form-psd p,.form-radio p{
+    letter-spacing: 8px;
+}
+.form-radio {
+    font-size:12px;
+    line-height:25px;
+    margin-bottom: 4px;
+}
+.form-radio input{
+    margin-right: 5px;
+}
+.form-yzm{
+    margin-top: 6px;
+}
+.form-yzm input{
+    float:left;
+    width:60px;
+    margin-right:6px;
+    line-height:20px;
+    border:1px dashed #333333;
+}
+.form-btn{
+    margin-top: 10px;
+    margin-left: 55px;
+}
+.form-btn input{
+    float:left;
+    width:56px;
+    line-height:20px;
+    border:1px dashed #333333;
+    background-color: #ffffff;
+    margin-right: 8px;
+}
+.footer{
+    width:956px;
+    height:80px;
+}

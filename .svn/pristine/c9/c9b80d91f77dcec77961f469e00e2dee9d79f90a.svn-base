@@ -1,0 +1,42 @@
+/*导航*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*主体部分*/
+.Subject{
+    margin-top: 10px;
+    width:956px;
+    height:600px;
+    border:1px solid #ccc;
+}
+.Subject h3{
+    line-height: 25px;
+    font-size: 14px;
+    text-align: center;
+    background-color:orange ;
+}
+.Subject ul{
+    float:left;
+    margin: 20px;
+    width:150px;
+    height:180px;
+}
+.Subject ul li:first-child{
+    background: url('../Img/images/photo.jpg') no-repeat left center;
+    height: 94px;
+    width:94px;
+    margin: 0 auto 10px auto;
+}
+.Subject ul li:last-child{
+    font-size: 12px;
+    text-align: center;
+    width:90px;
+    line-height: 17px;
+}
+/*底部*/
+.footer{
+    width:956px;
+    height:80px;
+}

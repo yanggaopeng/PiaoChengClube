@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>帖子详情</title>
+    <link rel="stylesheet" href="Css/public.css">
+    <link rel="stylesheet" href="Css/article.css">
+</head>
+<body>
+<!--导航-->
+<div class="top">
+    <iframe src="Banner.html" style="border:1px solid #CDCDCD;" width="954px" height="150px" frameborder="0" scrolling="no" name="headFrame"></iframe>
+</div>
+<!--悬浮字体-->
+<div class="Xuanfu">
+    <img src="Img/images/nice.gif">
+    <img src="Img/images/hot.gif">
+</div>
+<!--主要内容-->
+<div class="content">
+    <h3>帖子详情</h3>
+</div>
+</body>
+</html>

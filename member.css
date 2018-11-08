@@ -1,0 +1,68 @@
+/*头部*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*主体部分*/
+.Subject{
+    width:956px;
+    height:600px;
+    border:1px solid #ccc;
+    margin-top: 10px;
+}
+.Subject-left{
+    width:300px;
+    height:550px;
+    margin-top: 14px;
+    margin-left: 14px;
+    float:Left;
+    border:1px dashed #ccc;
+}
+.Subject-left h3,.Subject-right h3{
+    height:30px;
+    line-height: 30px;
+    font-size:14px;
+    background-color: orange;
+    text-align: center;
+}
+.Subject-left ul{
+    margin-left: 24px;
+    margin-top: 14px;
+    width: 250px;
+}
+.Subject-left ul li{
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+    color:#333;
+    font-size: 14px;
+}
+.public:hover{
+    background-color: #ccc;
+}
+.Subject-right{
+    width:590px;
+    height:550px;
+    border:1px dashed #ccc;
+    margin-top: 14px;
+    margin-left: 24px;
+    float:Left;
+}
+.Subject-right dl{
+    margin-left: 45px;
+    margin-top: 20px;
+    width:503px;
+}
+.Subject-right dl dd{
+    height:30px;
+    line-height: 30px;
+    margin-bottom: 10px;
+    border-bottom:1px dashed #ccc;
+    font-size: 14px;
+}
+/*底部*/
+.footer{
+    width:956px;
+    height:80px;
+}

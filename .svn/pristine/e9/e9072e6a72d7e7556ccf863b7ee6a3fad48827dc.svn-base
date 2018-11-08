@@ -1,0 +1,252 @@
+/*头部*/
+.top{
+    width:956px;
+    height:152px;
+    margin-top: 10px;
+}
+/*悬浮字体*/
+.Xuanfu{
+    width:160px;
+    height:92px;
+    position:absolute;
+    left: 1070px;
+    top:153px;
+
+}
+.Xuanfu img{
+    float:left;
+    width:80px;
+    height:90px;
+    background: none;
+}
+/*主要内容*/
+.content{
+    width:954px;
+    height:3000px;
+    margin-top: 10px;
+    border:1px solid #CDCDCD;
+}
+.content h3{
+    line-height:25px;
+    background-color: #EEEEEE;
+    font-size: 14px;
+    text-align: center;
+}
+.Content,.Content-comment{
+    width:890px;
+    height:1193px;
+    margin-top: 12px;
+    margin-left: 50px;
+    margin-right: 15px;
+    border-bottom: 1px dashed #666666;
+}
+.Content-left{
+    float: left;
+    width:164px;
+    height:1186px;
+}
+.Content-left h4{
+    font-size: 12px;
+    text-align:center;
+    color:#FF6D0B;
+    font-weight: 300;
+    margin-bottom: 17px;
+}
+.Content-left-Img{
+    width:80px;
+    height:80px;
+    margin-left: 36px;
+    margin-bottom: 20px;
+}
+.Content-left ul{
+    height:44px;
+    margin-bottom: 16px;
+}
+.Content-left ul li{
+    float:left;
+    width:67px;
+    height:20px;
+    font-size:10px;
+    margin-bottom: 6px;
+}
+.Content-left ul li img{
+    margin-right: 4px;
+}
+.Content-left-email,.Content-left-web{
+    height:14px;
+    font-size: 10px;
+}
+.Content-right{
+    float:left;
+    width:682px;
+    height:1186px;
+    margin-left: 44px;
+
+}
+.Content-right-title{
+    height:25px;
+    border-bottom:1px dashed #CDCDCD;
+}
+.Content-right-title-ul{
+    float:left;
+    width:237px;
+    height:25px;
+    margin-right: 330px;
+}
+.Content-right-title-ul li{
+    float:left;
+    width:46px;
+    line-height: 25px;
+    font-size:8px;
+}
+.Content-right-title-ul li:first-child{
+    width:26px;
+    padding-left:20px;
+    margin-right:8px;
+    background: url("../Img/images/member.gif") no-repeat 0px 4px;
+}
+.Content-right-title-ul li:last-child{
+    width:168px;
+}
+.Content-right-title-biaoji{
+    float:left;
+    width:115px;
+    height:25px;
+}
+.Content-right-title-biaoji li{
+    float:left;
+    width:60px;
+    font-size: 8px;
+    line-height: 25px;
+    color:#0C6DFF;
+}
+.Content-right-title-biaoji li a{
+    font-size: 8px;
+    color:#0C0CEF;
+    text-decoration: underline;
+}
+.Content-right-header{
+    height:175px;
+    margin-top: 10px;
+}
+.Content-right-header h4{
+    line-height:24px;
+    font-size: 14px;
+    background: url('../Img/images/icon15.gif') no-repeat 296px 4px;
+}
+.Content-right-header h4 a{
+    color:#0C6DFF;
+    margin-left: 15px;
+    font-size: 8px;
+    font-weight: 100;
+}
+.MengHuang{
+    line-height: 20px;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 17px;
+}
+.Content-right-title-second{
+    height:354px;
+}
+.Content-right-title-second h5,.Content-right-title-theed h5{
+    font-size: 14px;
+    margin-bottom: 38px;
+}
+.Content-right-title-second p{
+    line-height: 22px;
+}
+.Content-right-title-theed{
+    height:522px;
+}
+.Content-right-title-theed p{
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+.autograph{
+    float:left;
+    color:#666;
+    width:550px;
+    padding-bottom: 13px;
+    border-bottom:1px dashed #666;
+}
+.red{
+    float:left;
+    width:100%;
+    height:50px;
+    margin-top: 15px;
+}
+.red p:first-child{
+    color:#666;
+    font-size: 14px;
+    padding-bottom: 17px;
+    text-align: right;
+}
+.Content-comment-first{
+    height:276px;
+    border-bottom:1px dashed #666666;
+}
+.Content-comment-first-left{
+    float:left;
+    width:186px;
+    height:258px;
+    margin-left: 23px;
+    margin-right: 19px;
+    margin-bottom: 18px;
+}
+.Content-comment-first-left h3{
+    color:#f60;
+    background: none;
+    font-size: 14px;
+    font-weight: 100;
+    margin-bottom: 8px;
+}
+.Content-comment-first-left ul{
+    float:left;
+    width:150px;
+    height:42px;
+}
+
+.Content-comment-first-left ul li{
+    float:left;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    color:#333;
+    padding-bottom: 5px;
+    padding-right: 14px;
+}
+.Content-comment-first-left ul li img{
+    width:13px;
+    height:13px;
+}
+.Content-comment-first-left p{
+    font-size:12px;
+    float:left;
+    margin-top: 8px;
+    color:#333;
+}
+.Content-comment-first-right{
+    float:left;
+    width: 662px;
+    height:246px;
+}
+.Content-comment-first--right-top{
+    height:24px;
+    border-bottom:1px dashed #333333;
+}
+.Content-comment-first--right-top h3{
+    float:left;
+    font-weight: 100;
+    line-height:17px;
+    font-size: 13px;
+    padding-left: 18px;
+    color:#666666;
+    background:  url('../Img/images/member.gif') no-repeat left center;
+}
+.Content-comment-first--right-top p{
+    float:left;
+    font-size: 14px;
+    color:#06f;
+    margin-left: 383px;
+}

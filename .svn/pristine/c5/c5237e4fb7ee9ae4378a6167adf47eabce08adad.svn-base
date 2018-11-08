@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>瓢城Web俱乐部(YCKU.COM)</title>
+    <link rel="shortcut icon"  href="Img/images/q1.ico">
+    <link rel="stylesheet" href="Css/public.css">
+    <link rel="stylesheet" href="member.css">
+</head>
+<body>
+<!--导航-->
+<div class="top">
+    <iframe src="Banner.html" style="border:1px solid #CDCDCD;" width="954px" height="150px" frameborder="0" scrolling="no" name="headFrame"></iframe>
+</div>
+<!--主体-->
+<div class="Subject">
+    <div class="Subject-left">
+        <h3>中心导航</h3>
+        <ul>
+            <li style="background-color: #999;color:#fff;">账号管理</li>
+            <li class="public">个人信息</li>
+            <li class="public">修改资料</li>
+            <li style="background-color: #999;color:#fff;">其他管理</li>
+            <li class="public">短信查询</li>
+            <li class="public">好友设置</li>
+            <li class="public">查询花朵</li>
+            <li class="public">个人相册</li>
+        </ul>
+    </div>
+    <div class="Subject-right">
+        <h3>会员管理中心</h3>
+        <dl>
+            <dd>用 户 名：admin</dd>
+            <dd>性　　别：男</dd>
+            <dd>头　　像：face/m01.gif</dd>
+            <dd>电子邮件：eqwdasdad1qeqwe@qq.com</dd>
+            <dd>主　　页：http://www.foxea.com.cn</dd>
+            <dd>Q 　 　Q：4916862</dd>
+            <dd>注册时间：2015-12-24 22:01:47</dd>
+            <dd> 身　　份：普通会员</dd>
+        </dl>
+    </div>
+</div>
+<!--底部-->
+<div class="footer">
+    <iframe src="Footer.html" scrolling="0" width="956px" height="80px" frameborder="0"></iframe>
+</div>
+</body>
+</html>

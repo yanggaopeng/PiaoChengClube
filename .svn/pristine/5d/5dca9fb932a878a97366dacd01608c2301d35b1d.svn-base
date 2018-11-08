@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>正文头导航栏</title>
+    <link rel="stylesheet" href="Css/public.css">
+    <link rel="stylesheet" href="Css/Banner.css">
+</head>
+<body>
+<!--导航栏-->
+<div class="Banner">
+    <img class="Banner-img" src="Img/images/logo1.jpg">
+    <ul>
+        <li>
+            <a href="index.html" alt="Banner" target="_parent">首页</a>
+        </li>
+        <li>admin·个人中心</li>
+        <li style="font-weight: bold;">
+            <img src="Img/images/noread.gif" alt="">(0)
+        </li>
+        <li>
+            <a href="article.html" alt="Banner" target="_parent">博友</a>
+        </li>
+        <li>相册</li>
+        <li>风格</li>
+        <li>
+            <a href="post.html" alt="Banner" target="_parent">发帖</a>
+        </li>
+        <li>退出</li>
+    </ul>
+</div>
+</body>
+</html>
